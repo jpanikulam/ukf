@@ -1,3 +1,6 @@
+"""Purely experimental UKF implementation.
+"""
+
 from matplotlib import pyplot as plt
 import dynamics as toydynamics
 import numpy as np
